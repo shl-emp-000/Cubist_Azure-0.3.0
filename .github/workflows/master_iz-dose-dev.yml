@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'iz-dose-dev'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_f8e83c8d41bf4d1b8dc785b49cc83869 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_0e813b8bcbc442dba54a79d9ad21f531 }}
